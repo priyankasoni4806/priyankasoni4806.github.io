@@ -7,8 +7,8 @@
     "github_projects": true
   },
   "site": {
-    "title": "priyankasoni4806",
-    "description": "Developer Portfolio",
+    "title": "Priyanka Soni",
+    "description": "Personal Portfolio",
     "seo": {
       "title": "priyankasoni4806 - Developer Portfolio",
       "description": "Developer Portfolio of priyankasoni4806",
@@ -21,13 +21,19 @@
   },
   "header": {
     "greeting": "priyankasoni4806",
-    "tagline": "Developer and Creator."
+    "tagline": "Exploring AI & Partnerships"
   },
   "social_links": [
     {
       "name": "GitHub",
       "url": "https://github.com/priyankasoni4806",
       "icon": "github",
+      "required": true
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/priyanka-soni-ms/",
+      "icon": "linkedin",
       "required": true
     }
   ],
