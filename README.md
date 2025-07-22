@@ -1,4 +1,4 @@
-# Hi, I'm Priyanka 👋 - Developer Portfolio
+# Hi, I'm Priyanka 👋
 
 <div align="left">
   
