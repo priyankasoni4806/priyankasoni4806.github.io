@@ -1,7 +1,7 @@
 {
   "features": {
     "about": true,
-    "projects": true,
+    "projects": false,
     "experience": true,
     "skills": true,
     "github_projects": false
@@ -148,19 +148,12 @@
         "name": "Certifications",
         "items": [
           {
-            "name": "Verified International Academic Qualifications"
+            "name": "Microsoft Digital | Day of Learning 2024",
+            "url": "https://www.credly.com/badges/e5af6585-24b3-4220-8b91-e549e7a17792/linked_in_profile"
           },
           {
-            "name": "Dare to Lead Trained"
-          },
-          {
-            "name": "Global AI Bootcamp 2024 - Malaysia"
-          },
-          {
-            "name": "Microsoft Global Hackathon 2024 - Executive Challenge Winner"
-          },
-          {
-            "name": "Microsoft Global Hackathon 2022 - Award Winner"
+            "name": "GitHub Copilot",
+            "url": "https://www.credly.com/badges/370d77b0-13a0-45a7-92ae-3326f64786be/"
           }
         ]
       }
