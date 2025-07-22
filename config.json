@@ -4,24 +4,24 @@
     "projects": true,
     "experience": true,
     "skills": true,
-    "github_projects": true
+    "github_projects": false
   },
   "site": {
     "title": "Priyanka Soni",
-    "description": "Personal Portfolio",
+    "description": "Exploring AI & Partnerships | Microsoft | Strategy | Venture | Startups",
     "seo": {
-      "title": "priyankasoni4806 - Developer Portfolio",
-      "description": "Developer Portfolio of priyankasoni4806",
-      "keywords": "developer, portfolio, github",
-      "author": "priyankasoni4806",
+      "title": "Priyanka Soni - Strategic Partnerships & Business Development",
+      "description": "Portfolio of Priyanka Soni, a business strategist driving startup scaling, innovation, and high-value partnerships.",
+      "keywords": "strategy, AI, partnerships, business development, Microsoft, startups",
+      "author": "Priyanka Soni",
       "og_image": "https://avatars.githubusercontent.com/priyankasoni4806",
       "twitter_card": "summary_large_image",
       "base_url": "https://priyankasoni4806.github.io"
     }
   },
   "header": {
-    "greeting": "priyankasoni4806",
-    "tagline": "Exploring AI & Partnerships"
+    "greeting": "Hi, I'm Priyanka 👋",
+    "tagline": "Exploring AI & Partnerships | Empowering Innovation"
   },
   "social_links": [
     {
@@ -40,8 +40,8 @@
   "github_username": "priyankasoni4806",
   "about": {
     "paragraphs": [
-      "Welcome to my portfolio! I'm passionate about creating amazing digital experiences and solving complex problems through code.",
-      "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
+      "With 16+ years of experience across industries and geographies, I thrive at the intersection of technology, strategy, and collaboration—helping startups scale and businesses grow through innovation and partnerships.",
+      "My passion lies in scaling startups, building sustainable partnerships, and exploring emerging technologies and market shifts. Beyond work, I actively contribute to women’s empowerment and sustainability initiatives, and I practice yoga and meditation for holistic well-being."
     ]
   },
   "projects": {
@@ -67,17 +67,60 @@
     "title": "Professional Experience",
     "jobs": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
-        "date": "Start Date - Present",
+        "company": "Microsoft",
+        "role": "Sr. Manager - Corp Biz Dev, Strategy & Venture",
+        "date": "Sep 2021 - Present",
         "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
-          "Mention any notable projects or impact metrics",
-          "Update this section with your actual work experience"
+          "Driving startup scaling and strategic growth through corporate partnerships.",
+          "Exploring emerging technologies and driving business value with future-focused strategies.",
+          "Winner of Microsoft Global Hackathon 2024 (Executive Challenge) and 2022."
         ],
-        "logo": "assets/logos/Placeholder_Logo.png",
-        "logo_dark": "assets/logos/Placeholder_Logo.png"
+        "logo": "assets/logos/microsoft.png",
+        "logo_dark": "assets/logos/microsoft.png"
+      },
+      {
+        "company": "Philips Lighting",
+        "role": "Key Account Manager - PAN India",
+        "date": "Jun 2021 - Sep 2021",
+        "responsibilities": [
+          "Managed national-level key accounts and drove business growth across verticals.",
+          "Benchmarked against competition and executed executive-level consultative selling."
+        ],
+        "logo": "assets/logos/philips.png",
+        "logo_dark": "assets/logos/philips.png"
+      },
+      {
+        "company": "Schneider Electric",
+        "role": "Deputy General Manager – Sales Team Leader",
+        "date": "Jan 2020 - May 2021",
+        "responsibilities": [
+          "Led digital services sales across South India.",
+          "Developed and executed growth strategy, mentored team, and ensured customer satisfaction."
+        ],
+        "logo": "assets/logos/schneider.png",
+        "logo_dark": "assets/logos/schneider.png"
+      },
+      {
+        "company": "QuEST Global",
+        "role": "Global Sales - Business Manager",
+        "date": "2019 - 2020",
+        "responsibilities": [
+          "Enabled strategic growth for global accounts in Americas and Europe.",
+          "Drove process automation, pipeline analytics, and sales enablement initiatives."
+        ],
+        "logo": "assets/logos/quest.png",
+        "logo_dark": "assets/logos/quest.png"
+      },
+      {
+        "company": "L&T Technology Services",
+        "role": "Various Roles from 2007 to 2018",
+        "date": "2007 - 2018",
+        "responsibilities": [
+          "Held leadership roles in business development, operations, and presales across India, Japan, and Korea.",
+          "Built market presence, led joint GTM strategies, managed bids, and executed digital sales initiatives."
+        ],
+        "logo": "assets/logos/ltts.png",
+        "logo_dark": "assets/logos/ltts.png"
       }
     ]
   },
@@ -85,31 +128,40 @@
     "title": "Skills & Technologies",
     "categories": [
       {
-        "name": "Programming Languages & Technologies",
+        "name": "Business Skills",
         "items": [
-          "JavaScript",
-          "Python",
-          "Java",
-          "TypeScript"
+          "Business Development",
+          "Strategic Partnerships",
+          "Customer Management",
+          "Go-to-Market Strategy"
         ]
       },
       {
         "name": "Tools & Platforms",
         "items": [
-          "Git",
-          "GitHub",
-          "VS Code",
-          "Docker"
+          "Draup for Sales",
+          "Microsoft 365",
+          "LinkedIn Sales Navigator"
         ]
       },
       {
         "name": "Certifications",
         "items": [
           {
-            "name": "Add your certification name here",
-            "url": "https://example.com/your-certification-link"
+            "name": "Verified International Academic Qualifications"
           },
-          "You can also add certifications without links"
+          {
+            "name": "Dare to Lead Trained"
+          },
+          {
+            "name": "Global AI Bootcamp 2024 - Malaysia"
+          },
+          {
+            "name": "Microsoft Global Hackathon 2024 - Executive Challenge Winner"
+          },
+          {
+            "name": "Microsoft Global Hackathon 2022 - Award Winner"
+          }
         ]
       }
     ]
@@ -121,6 +173,6 @@
     "show_social_links": true,
     "show_built_with": true,
     "built_with_text": "Built with ❤️ using vanilla JavaScript",
-    "tagline": "Let's connect and build something amazing together!"
+    "tagline": "Let’s connect and build something meaningful together!"
   }
 }
